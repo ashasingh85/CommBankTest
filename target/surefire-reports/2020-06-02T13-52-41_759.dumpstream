@@ -1,0 +1,4 @@
+# Created at 2020-06-02T13:52:42.271
+Boot Manifest-JAR contains absolute paths in classpath 'D:\JavaTrainingSession\BestAndLessFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

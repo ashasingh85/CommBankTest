@@ -1,0 +1,3 @@
+com\selenium\pageObject\HomePage.class
+com\resources\Browser.class
+com\resources\Config.class

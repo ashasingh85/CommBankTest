@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 27.158 s <<< FAILURE! - in TestSuite
+com.selenium.testcases.validateTitle.assertTitle  Time elapsed: 0.109 s  <<< FAILURE!
+java.lang.AssertionError: expected [Cart (empty123)] but found [Cart (empty)]
+	at com.selenium.testcases.validateTitle.assertTitle(validateTitle.java:30)
+
